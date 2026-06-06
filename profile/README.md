@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/miqvaro-banner.png" alt="Miqvaro">
+  <img src="[assets/miqvaro-banner.png](https://github.com/miqvaro/.github/blob/da2874a5ad37989c6e10f4a4f93497f5c297212e/profile/assets/miqvaro-banner.png)" alt="Miqvaro">
 </p>
 
 # Miqvaro
