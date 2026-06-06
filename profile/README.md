@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/miqvaro-banner.png" alt="Miqvaro">
+</p>
+
 # Miqvaro
 
 **Modern operational software for growing businesses.**
