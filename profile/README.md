@@ -1,36 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miqvaro/.github/main/profile/assets/miqvaro-banner.png" alt="Miqvaro">
+  <img src="https://raw.githubusercontent.com/miqvaro/.github/main/profile/assets/miqvaro-banner.png" alt="Miqvaro: simple apps and websites for small businesses" width="800">
 </p>
 
 # Miqvaro
 
-**Modern operational software for growing businesses.**
+**Simple apps and websites for small businesses.**
 
-Miqvaro builds clean, reliable, and intelligent software products that help businesses operate smarter.
+Miqvaro is a Lebanese software company. We build simple apps and websites for small businesses, in Arabic and
+English, made for the phone.
 
-## Products
+## What we build
 
-### DentOS by Miqvaro
-Dental clinic management software. DentOS helps dental clinics manage patients, treatments, appointments, and payments — one organized workspace for patient records, the interactive dental chart, treatment plans, billing, imaging, and daily practice operations. Arabic and English.
+### Websites
+A website for your business in English and Arabic: made for phones, with WhatsApp, call and map. $150, one payment.
+https://miqvaro.com/websites
 
-### SellX by Miqvaro
-Sales and inventory management software for small and growing businesses. SellX brings products, stock, customers, sales, invoices, and expenses together so owners can see what is selling and how the business is performing.
+### SellX by Miqvaro — live
+For online shops that sell on Instagram, WhatsApp and Facebook: stock, sales, expenses and real profit, from the
+phone. Free for 15 days, then $15 a month. https://miqvaro.com/products/sellx
 
-### Kahrabak by Miqvaro — كهرباك
-Customer and billing management for private electricity generator suppliers in Lebanon. Kahrabak handles customers, monthly meter readings and bills, cash and Whish Money payments, outstanding balances, and USD/LBP with a supplier-controlled exchange rate. Arabic-first, phone-first, and built to print on thermal receipt printers.
+### Kahrabak by Miqvaro — كهرباك — live
+For private electricity generator suppliers: customers, meter readings, monthly bills and payments, in USD and LBP,
+with invoices and reminders sent on WhatsApp. https://kahrabak.com
 
-## What We Build
+### DentOS by Miqvaro — coming soon
+For dental clinics: appointments, patients, treatment plans and billing.
 
-Miqvaro focuses on operational software that is:
-- Practical
-- Reliable
-- User-friendly
-- Business-focused
-- Built for real workflows
+## How we build
 
-## Vision
-
-To build a connected ecosystem of modern business software products under the Miqvaro umbrella.
+- Simple: plain words, few screens
+- Made for the phone
+- Arabic and English, with Arabic properly right to left
+- Priced for small businesses
 
 ## Website
 
